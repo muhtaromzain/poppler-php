@@ -29,7 +29,7 @@ Or add this line to your `composer.json`
 
 ```json
 {
-	"MuhtaromZain/poppler-php": "0.1.*"
+	"MuhtaromZain/poppler-php": "1.0.*"
 }
 ```
 
