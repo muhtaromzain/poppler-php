@@ -8,12 +8,12 @@
  * Time:    2:31 PM
  **/
 
-use NcJoes\PopplerPhp\Config;
-use NcJoes\PopplerPhp\Constants as C;
-use NcJoes\PopplerPhp\Exceptions\PopplerPhpException;
-use NcJoes\PopplerPhp\PdfInfo;
-use NcJoes\PopplerPhp\PdfToCairo;
-use NcJoes\PopplerPhp\PdfUnite;
+use MuhtaromZain\PopplerPhp\Config;
+use MuhtaromZain\PopplerPhp\Constants as C;
+use MuhtaromZain\PopplerPhp\Exceptions\PopplerPhpException;
+use MuhtaromZain\PopplerPhp\PdfInfo;
+use MuhtaromZain\PopplerPhp\PdfToCairo;
+use MuhtaromZain\PopplerPhp\PdfUnite;
 
 /**
  * Class PopplerUtilTest

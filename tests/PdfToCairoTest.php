@@ -7,10 +7,10 @@
  * Time:    11:35 AM
  **/
 
-use NcJoes\PopplerPhp\Config;
-use NcJoes\PopplerPhp\Constants as C;
-use NcJoes\PopplerPhp\Exceptions\PopplerPhpException;
-use NcJoes\PopplerPhp\PdfToCairo;
+use MuhtaromZain\PopplerPhp\Config;
+use MuhtaromZain\PopplerPhp\Constants as C;
+use MuhtaromZain\PopplerPhp\Exceptions\PopplerPhpException;
+use MuhtaromZain\PopplerPhp\PdfToCairo;
 
 /**
  * Class PdfToCairoTest

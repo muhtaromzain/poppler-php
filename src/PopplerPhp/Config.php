@@ -1,16 +1,16 @@
 <?php
 
-namespace NcJoes\PopplerPhp;
+namespace MuhtaromZain\PopplerPhp;
 
 use Illuminate\Config\Repository;
-use NcJoes\PopplerPhp\Constants as C;
-use NcJoes\PopplerPhp\Exceptions\PopplerPhpException;
-use NcJoes\PopplerPhp\Helpers as H;
+use MuhtaromZain\PopplerPhp\Constants as C;
+use MuhtaromZain\PopplerPhp\Exceptions\PopplerPhpException;
+use MuhtaromZain\PopplerPhp\Helpers as H;
 
 /**
  * Class Config
  *
- * @package NcJoes\PopplerPhp
+ * @package MuhtaromZain\PopplerPhp
  */
 class Config
 {

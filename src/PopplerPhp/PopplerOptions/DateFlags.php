@@ -7,13 +7,13 @@
  * Time:    6:37 PM
  **/
 
-namespace NcJoes\PopplerPhp\PopplerOptions;
+namespace MuhtaromZain\PopplerPhp\PopplerOptions;
 
-use NcJoes\PopplerPhp\Constants as C;
+use MuhtaromZain\PopplerPhp\Constants as C;
 
 /**
  * Trait DateFlags
- * @package NcJoes\PopplerPhp\PopplerOptions
+ * @package MuhtaromZain\PopplerPhp\PopplerOptions
  */
 trait DateFlags
 {

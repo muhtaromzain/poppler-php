@@ -7,11 +7,11 @@
  * Time:    6:12 PM
  **/
 
-namespace NcJoes\PopplerPhp;
+namespace MuhtaromZain\PopplerPhp;
 
 /**
  * Class Constants
- * @package NcJoes\PopplerPhp
+ * @package MuhtaromZain\PopplerPhp
  */
 abstract class Constants
 {
@@ -99,9 +99,9 @@ abstract class Constants
 
     //Directory Helpers
     const DS          = DIRECTORY_SEPARATOR;
-    const BIN_DIR     = 'ncjoes.poppler-php.bin_dir';
-    const OUTPUT_DIR  = 'ncjoes.poppler-php.output_dir';
-    const OUTPUT_NAME = 'ncjoes.poppler-php.output_name';
+    const BIN_DIR     = 'MuhtaromZain.poppler-php.bin_dir';
+    const OUTPUT_DIR  = 'MuhtaromZain.poppler-php.output_dir';
+    const OUTPUT_NAME = 'MuhtaromZain.poppler-php.output_name';
 
     const DEFAULT_OUTPUT_DIR = 'tests/results';
 

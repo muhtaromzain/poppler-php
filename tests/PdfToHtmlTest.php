@@ -7,9 +7,9 @@
  * Time:    4:46 AM
  **/
 
-use NcJoes\PopplerPhp\Config;
-use NcJoes\PopplerPhp\Exceptions\PopplerPhpException;
-use NcJoes\PopplerPhp\PdfToHtml;
+use MuhtaromZain\PopplerPhp\Config;
+use MuhtaromZain\PopplerPhp\Exceptions\PopplerPhpException;
+use MuhtaromZain\PopplerPhp\PdfToHtml;
 
 /**
  * Class PdfToHtmlTest
