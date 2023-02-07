@@ -1,5 +1,5 @@
 {
-    "name" : "mz/poppler-php",
+    "name" : "muhtaromzain/poppler-php",
     "description" : "Complete, Comprehensive and Flexible PHP wrapper for Poppler-utils",
     "keywords" : ["Poppler-utils", "Poppler-PHP", "PDF", "PDF to HTML", "PDF to SVG", "PDF to JPG", "PDF to PNG", "PDF Convert", "PHP-PDF"],
     "license" : "MIT",
@@ -19,7 +19,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "mz\\PopplerPhp\\" : "src/PopplerPhp"
+            "MuhtaromZain\\PopplerPhp\\" : "src/PopplerPhp"
         }
     },
     "minimum-stability" : "stable"
