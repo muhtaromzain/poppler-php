@@ -111,7 +111,7 @@ class Config
      *
      * @return mixed
      */
-    public static function getOutputDirectory($default = null)
+    public static function getOutputDirectory($default = '')
     {
         $check = is_dir($default);
         $default = $check ? $default : H::parseDirName(C::DEFAULT_OUTPUT_DIR);
