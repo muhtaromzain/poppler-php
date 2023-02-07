@@ -12,6 +12,8 @@
     "require" : {
         "php": "^8.0.2",
         "illuminate/collections": "^9.0",
+        "illuminate/config": "^9.0",
+        "illuminate/support": "^9.0",
         "illuminate/contracts": "^9.0"
     },
     "require-dev" : {
